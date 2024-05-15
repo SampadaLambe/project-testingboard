@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T18:49:51 IST" name="Default suite" finished-at="2024-05-15T18:50:19 IST" duration-ms="27998">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T18:49:51 IST" name="Default test" finished-at="2024-05-15T18:50:19 IST" duration-ms="27998">
+      <class name="com.project.testcases.A_SignInPageTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:49:51 IST" name="initialization" finished-at="2024-05-15T18:49:59 IST" duration-ms="7701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="testPageTitle()[pri:1, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:49:59 IST" name="testPageTitle" finished-at="2024-05-15T18:49:59 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:49:59 IST" name="close" finished-at="2024-05-15T18:49:59 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:49:59 IST" name="initialization" finished-at="2024-05-15T18:50:06 IST" duration-ms="7101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="testCreateAccount()[pri:2, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:50:06 IST" name="testCreateAccount" finished-at="2024-05-15T18:50:10 IST" duration-ms="4219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccount -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:50:10 IST" name="close" finished-at="2024-05-15T18:50:11 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:50:11 IST" name="initialization" finished-at="2024-05-15T18:50:17 IST" duration-ms="6015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="testInputCreateAccount()[pri:3, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:50:17 IST" name="testInputCreateAccount" finished-at="2024-05-15T18:50:19 IST" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputCreateAccount -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.project.testcases.A_SignInPageTest@24aed80c]" started-at="2024-05-15T18:50:19 IST" name="close" finished-at="2024-05-15T18:50:19 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.project.testcases.A_SignInPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
